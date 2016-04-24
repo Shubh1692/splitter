@@ -1,0 +1,18 @@
+    /* Spliter Pane Css */
+    .pane {
+        border-right: 5px solid green;
+        border-bottom: 5px solid red;
+        height: 250px;
+        float: left;
+        overflow-x: auto;
+    }
+    /* Spliter Main Div Css */
+    .main-div-css {
+        border-right: 5px solid;
+        width: 80%;
+        height: 250px;
+    }
+    /* Ui Resizer Css */
+    .ui-resizable-helper { 
+        border-right: dotted gray; 
+    }
